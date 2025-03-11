@@ -89,7 +89,7 @@ export const Projects = () => {
       <section id="experience" />
       <h1>Experience</h1>
 
-      <div className="max-w-6xl mx-auto py-10">
+      <div className="max-w-6xl mx-auto py-10 px-5">
         <h2 className="text-left flex justify-between items-center">
           Wnderful Design <span className="text-3xl">(2022 - Present)</span>
         </h2>

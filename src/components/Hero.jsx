@@ -37,7 +37,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="max-w-6xl py-30 flex justify-center items-center mx-auto">
+    <div className="max-w-6xl py-10 flex justify-center items-center mx-auto px-5">
       <div>
         <div className="rounded-2xl px-4 py-3 drop-shadow-2xl w-fit w-max-1/2 mb-5">
           <p
