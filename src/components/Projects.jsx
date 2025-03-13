@@ -111,7 +111,7 @@ export const Projects = () => {
             >
               <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" />
             </svg>
-            2024 - 2 T-Shirts
+            2024 - T-Shirts
           </h4>
           <ul className="text-3xl list-disc list-inside mx-10">
             <li>
@@ -146,7 +146,7 @@ export const Projects = () => {
             >
               <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" />
             </svg>
-            2022 - 3 Crewneck Sweatshirts
+            2022 - Crewneck Sweatshirts
           </h4>
           <ul className="text-3xl list-disc list-inside mx-10">
             <li>
@@ -176,8 +176,15 @@ export const Projects = () => {
           </h4>
           <ul className="text-3xl list-disc list-inside mx-10">
             <li>
-              Posted original art every day of January, exploring multiple
-              disciplines
+              Posted original art to my{" "}
+              <a
+                href="https://instagram.com/wnderfuldesign"
+                target="_blank"
+                className="hover:text-gray-500 transition-all font-bold"
+              >
+                Instagram (link)
+              </a>
+              &nbsp;every day of January, exploring multiple disciplines
             </li>
             <li>
               Used <span className="font-bold">Adobe Illustrator</span> and{" "}
@@ -207,8 +214,8 @@ export const Projects = () => {
 
           <ul className="text-3xl list-disc list-inside mx-10">
             <li>
-              Designed yard signs that balanced a universal yet visually
-              appealing look
+              Designed yard signs for Capistrano Valley High School that
+              balanced a universal yet visually appealing look
             </li>
             <li>
               200+ signs were printed and available for all graduating seniors
@@ -221,10 +228,18 @@ export const Projects = () => {
         </h2>
         <h3></h3>
         <h5 className="py-2">
-          As Marketing Director for DUEN, I led a team of 7 in developing
-          branding, promotional materials, and marketing strategies that
-          enhanced the club’s visibility, drove engagement, and led to the
-          highest recruitment event turnout in the club’s history.
+          As Marketing Director for the Davis Undergraduate Engineering Network{" "}
+          <a
+            href="https://instagram.com/duen_ucd"
+            target="_blank"
+            className="hover:text-gray-500 transition-all font-bold"
+          >
+            (Instagram link)
+          </a>
+          , I led a team of 7 in developing branding, promotional materials, and
+          marketing strategies that enhanced the club’s visibility, drove
+          engagement, and led to the highest recruitment event turnout in the
+          club’s history.
         </h5>
 
         <div className="px-5">
