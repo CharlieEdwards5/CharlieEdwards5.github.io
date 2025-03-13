@@ -37,7 +37,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <div className="max-w-6xl py-10 flex justify-center items-center mx-auto px-5">
+    <div className="max-w-6xl py-10 flex flex-col md:flex-row justify-center items-center mx-auto px-5">
       <div>
         <div className="rounded-2xl px-4 py-3 drop-shadow-2xl w-fit w-max-1/2 mb-5">
           <p
@@ -68,7 +68,7 @@ const Hero = () => {
         id="img"
         src={charliePic}
         alt="charlie"
-        className="w-1/2 max-h-150 object-contain"
+        className="w-3/4 md:w-1/2 max-h-150 object-contain"
       />
     </div>
   );
